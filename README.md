@@ -1,7 +1,5 @@
 # AAE DPT Info Metz
 
-One Paragraph of project description goes here
-
 ## Description
 
 Ce projet a été réalisé dans le cadre du projet tutoré S2.
